@@ -2,4 +2,5 @@ This is a the first paragraph and it has now been updated
 
 this is my second paragraph
 
-WOAH! its my third paragraph
+The third paragraph has been changed
+
