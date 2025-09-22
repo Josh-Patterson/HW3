@@ -1,6 +1,6 @@
 This is a the first paragraph and it has now been updated
 
-this is my second paragraph
+this is my second paragraph, and it has been edited for the update
 
 The third paragraph has been changed
 
